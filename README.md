@@ -2,13 +2,13 @@
 
 ## About Folders
 
-header：dada格式的header文件
+header：header-file in dada-format 
 
-pipeline：GPU中运行的程序
+pipeline：the main process in GPU
 
-udp：将udp包合并为dada格式
+udp：merge udp-package to dada-data
 
-src和include：依赖的C文件和头文件
+src和include：C source & header files dependency.
 
 ## Revise /scripts/pipeline.sh (if needed)
 
